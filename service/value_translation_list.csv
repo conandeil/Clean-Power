@@ -1,0 +1,116 @@
+original_name,opsd_name,energy_source_level_2,country,data_source
+Wind Land,Onshore,Wind,DE,BNetzA
+Wind See,Offshore,Wind,DE,BNetzA
+Klärgas,Sewage and landfill gas,Bioenergy,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+Grubengas,Other fossil fuels,Other fossil fuels,DE,BnetzA/ Amprion
+Freifläche PV,Photovoltaics ground,Solar,DE,BNetzA
+Deponiegas,Sewage and landfill gas,Bioenergy,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+Biomasse,Biomass and biogas,Bioenergy,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+Wasserkraft,Run-of-river,Hydro,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+Geothermie,Geothermal,Geothermal,DE,BnetzA / TenneT / 50Hertz / Amprion
+Windenergie Offshore,Offshore,Wind,DE,50Hertz / TenneT
+Solar,Photovoltaics,Solar,DE,TransnetBW / TenneT / 50Hertz / Amprion
+Speicher,Storage,Storage,DE,BNetzA
+Windenergie,Onshore,Wind,DE,TenneT / 50Hertz / Amprion
+Windenergie an Land,Onshore,Wind,DE,TransnetBW
+NS,low voltage,,DE,BNetzA
+MS/NS,low voltage / medium voltage,,DE,BNetzA
+MS,medium voltage,,DE,BNetzA
+HS/MS,medium voltage / high voltage,,DE,BNetzA
+HS,high voltage,,DE,BNetzA
+HöS,extra high voltage,,DE,BNetzA
+HöS/HS,high voltage / extra high voltage,,DE,BNetzA
+Hös/HS,high voltage / extra high voltage,,DE,BNetzA
+50hertz Transmission GmbH,50Hertz,,DE,50Hertz
+TransnetBW GmbH,TransnetBW,,DE,TransnetBW
+TenneT TSO GmbH,TenneT,,DE,TenneT
+Amprion GmbH,Amprion,,DE,Amprion
+HAV,Offshore,Wind,DK,Energistyrelsen
+LAND,Onshore,Wind,DK,Energistyrelsen
+Land,Onshore,Wind,DK,Energistyrelsen
+Biomasse,Biomass and biogas,Bioenergy,FR,gouv.fr
+Eolien,Wind,Wind,FR,gouv.fr
+Géothermie,Geothermal,Geothermal,FR,gouv.fr
+Hydraulique,Hydro,Hydro,FR,gouv.fr
+Solaire photovoltaïque,Photovoltaics,Solar,FR,gouv.fr
+s,<3,,FR,gouv.fr
+agricultural biogas power-stations,Biomass and biogas,Bioenergy,PL,Urzad Regulacji Energetyki
+"biomass power-stations fired forest, agricultural, garden waste",Biomass and biogas,Bioenergy,PL,Urzad Regulacji Energetyki
+biomass power-stations fired wood-derivatives and pulp-paper industry production waste,Biomass and biogas,Bioenergy,PL,Urzad Regulacji Energetyki
+biomass power-stations mixed biomass-fired,Biomass and biogas,Bioenergy,PL,Urzad Regulacji Energetyki
+co-fired technology (fossil fuel and biogas),Biomass and biogas,Bioenergy,PL,Urzad Regulacji Energetyki
+co-fired technology (fossil fuel and biomass),Biomass and biogas,Bioenergy,PL,Urzad Regulacji Energetyki
+dump biogas power-stations,Sewage and landfill gas,Bioenergy,PL,Urzad Regulacji Energetyki
+hydro-electric power-station capacity over 10 MW,Hydro,Hydro,PL,Urzad Regulacji Energetyki
+"hydro-electric power-station capacity up to 0,3 MW",Hydro,Hydro,PL,Urzad Regulacji Energetyki
+hydro-electric power-station capacity up to 1 MW,Hydro,Hydro,PL,Urzad Regulacji Energetyki
+hydro-electric power-station capacity up to 10 MW,Hydro,Hydro,PL,Urzad Regulacji Energetyki
+hydro-electric power-station capacity up to 5 MW,Hydro,Hydro,PL,Urzad Regulacji Energetyki
+mixed biogas power-stations,Biomass and biogas,Bioenergy,PL,Urzad Regulacji Energetyki
+onshore wind power-station,Onshore,Wind,PL,Urzad Regulacji Energetyki
+photovoltaic power-stations,Photovoltaics,Solar,PL,Urzad Regulacji Energetyki
+sewage treatment plant biogas power-stations,Sewage and landfill gas,Bioenergy,PL,Urzad Regulacji Energetyki
+pumped-storage power station or flow hydro-electric power station with pump part,Hydro,Hydro,PL,Urzad Regulacji Energetyki
+Biogas,Biomass and biogas,Bioenergy,Europe,IRENA
+Concentrated Solar Power,Concentrated solar power,Solar,Europe,IRENA
+Geothermal Energy,Geothermal,Geothermal,Europe,IRENA
+Large Hydropower,Hydro,Hydro,Europe,IRENA
+Liquid Biofuels,Biomass and biogas,Bioenergy,Europe,IRENA
+Marine,Marine,Marine,Europe,IRENA
+Medium Hydropower,Hydro,Hydro,Europe,IRENA
+Offshore Wind,Offshore,Wind,Europe,IRENA
+Onshore Wind,Onshore,Wind,Europe,IRENA
+Pumped storage and mixed plants,Hydro,Hydro,Europe,IRENA
+Small Hydropower,Hydro,Hydro,Europe,IRENA
+Solar Photovoltaic,Photovoltaics,Solar,Europe,IRENA
+Solid Biomass,Biomass and biogas,Bioenergy,Europe,IRENA
+Denmark,DK,,Europe,IRENA
+France,FR,,Europe,IRENA
+Germany,DE,,Europe,IRENA
+Poland,PL,,Europe,IRENA
+Bioenergy and other renewale fuels,Bioenergy and renewable waste,Bioenergy,Europe,OPSD
+Solar,Solar,,Europe,OPSD
+Wind,Wind,,Europe,OPSD
+Geothermal,Geothermal,,Europe,OPSD
+Differently categorized hydro,Hydro,,Europe,OPSD
+"Tide, wave, and ocean",Marine,,Europe,OPSD
+Biomasse,Biomass,Bioenergy,CH,BFE
+Wind,Wind,Wind,CH,BFE
+Photovoltaik,Photovoltaics,Solar,CH,BFE
+Wasserkraft,Hydro,Hydro,CH,BFE
+Abwasserkraftwerk,Waste water plant,,CH,BFE
+Schlammverbrennungsanlage,Biomass and biogas,Bioenergy,CH,BFE
+Kehrrichtverbrennungsanlage,Biomass and biogas,Bioenergy,CH,BFE
+Integrierte Anlage,Integrated unit,,CH,BFE
+Angebaute Anlage,Connected unit,,CH,BFE
+Durchlaufkraftwerk,Run-of-river,,CH,BFE
+Freistehende Anlage,Stand alone unit,,CH,BFE
+Dotierwasserkraftwerk,other Hydro,,CH,BFE
+Klärgasanlage,Biomass and biogas,Bioenergy,CH,BFE
+übrige Biomasse - übrige WKK-Anlage,Biomass and biogas,Bioenergy,CH,BFE
+übrige Biomasse - Dampfprozess,Biomass and biogas,Bioenergy,CH,BFE
+Ausleitkraftwerk,Diversion plant,Hydro,CH,BFE
+Unbekannt,Unknown,,CH,BFE
+natürliche Person,Natural person,,CH,BFE
+juristische Person,Legal entity,,CH,BFE
+Trinkwasserkraftwerk,Drinking water plant,Hydro,CH,BFE
+BW,Baden-Württemberg,,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+BY,Bayern,,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+BE,Berlin,,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+BB,Brandenburg,,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+HB,Bremen,,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+HH,Hamburg,,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+HE,Hessen,,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+MV,Mecklenburg-Vorpommern,,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+NI,Niedersachsen,,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+NW,Nordrhein-Westfalen,,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+RP,Rheinland-Pfalz,,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+SL,Saarland,,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+SN,Sachsen,,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+ST,Sachsen-Anhalt,,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+SH,Schleswig-Holstein,,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+TH,Thüringen,,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+AWZ,German exclusive economic zone (off-shore),,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+nw,Nordrhein-Westfalen,,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+Rp,Rheinland-Pfalz,,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
+Ausschließliche Wirtschaftszone (Wind See),German exclusive economic zone (off-shore),,DE,BNetzA / TransnetBW / TenneT / 50Hertz / Amprion
